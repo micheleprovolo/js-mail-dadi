@@ -25,12 +25,12 @@
 }
 
 .giocatore1 {
-    padding-right: 5%;
+    width: 50%;
     text-align: center;
 }
 
 .giocatore2 {
-    padding-left: 5%;
+    width: 50%;
     text-align: center;
 }
 
@@ -41,12 +41,12 @@
 }
 
 #giocata1 {
-    padding-right: 10%;
+    width: 50%;
     text-align: center;
 }
 
 #giocata2 {
-    padding-left: 10%;
+    width: 50%;
     text-align: center;
 }
 
@@ -64,6 +64,8 @@
     text-decoration: none;
     font-size: 16px;
     font-weight: bold;
+    border: 1px solid black;
+    border-radius: 10px;
 }
 .button:hover {
     background-color: rgb(143, 140, 133);
