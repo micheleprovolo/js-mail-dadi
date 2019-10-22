@@ -18,6 +18,38 @@
     padding: 2% 0;
 }
 
+.giocatori {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.giocatore1 {
+    padding-right: 5%;
+    text-align: center;
+}
+
+.giocatore2 {
+    padding-left: 5%;
+    text-align: center;
+}
+
+.giocate {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+#giocata1 {
+    padding-right: 10%;
+    text-align: center;
+}
+
+#giocata2 {
+    padding-left: 10%;
+    text-align: center;
+}
+
 .main-row {
     display: flex;
     justify-content: center;

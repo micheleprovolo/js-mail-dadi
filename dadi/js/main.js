@@ -19,3 +19,4 @@ if(playerOne > playerTwo) {
 }
 
 document.getElementById("giocata1").innerHTML = playerOne;
+document.getElementById("giocata2").innerHTML = playerTwo;
