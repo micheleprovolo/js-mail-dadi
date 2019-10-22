@@ -50,6 +50,15 @@
     text-align: center;
 }
 
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+#risultato {
+    padding: 2% 0;
+    color: cornsilk;
+}
 .main-row {
     display: flex;
     justify-content: center;

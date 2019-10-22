@@ -1,11 +1,13 @@
 //Gioco dei dadi, chi fa di più vince;
 
-var playerOne = Math.floor(Math.random() * 6) + 1;
+var playerOne, playerTwo
+
+playerOne = Math.floor(Math.random() * 6) + 1;
 
 console.log(playerOne);
 
 
-var playerTwo = Math.floor(Math.random() * 6) + 1;
+playerTwo = Math.floor(Math.random() * 6) + 1;
 
 console.log(playerTwo);
 
