@@ -17,3 +17,5 @@ if(playerOne > playerTwo) {
 } else {
     console.log("ha vinto il giocatore 2");
 }
+
+document.getElementById("giocata1").innerHTML = playerOne;
